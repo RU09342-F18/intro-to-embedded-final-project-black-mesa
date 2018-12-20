@@ -1,8 +1,8 @@
 # Final Project: Keypad lock
 
 ## Description
-In this project, a keypad lock was created on an ATTiny88. 
-This keypad lick has several unique functions:
+In this project, a keypad lock was created on an ATTiny88. At ATTiny88 was selected because it has more than enough program space, ram, and enough I/O for a very low price.
+This keypad lock has several unique functions:
 * 4x3 keypad input
 * separate display module
 * 4x7 segment display for output multiplexed through shift registers
